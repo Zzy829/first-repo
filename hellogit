@@ -1,0 +1,13 @@
+/*
+ * @Author: 'zk阳' '14307791+zhang-ziyang0308@user.noreply.gitee.com'
+ * @Date: 2026-04-01 18:45:07
+ * @LastEditors: 'zk阳' '14307791+zhang-ziyang0308@user.noreply.gitee.com'
+ * @LastEditTime: 2026-04-01 18:45:35
+ * @FilePath: \reset-repo\hellogit
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ */
+#include <stdio.h>
+int main() {
+    printf("Hello, Git!\n");
+    return 0;
+}
